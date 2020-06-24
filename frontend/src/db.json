@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "name": "Darth Vader",
+      "keys": {
+        "publicKey": "8ZoEiUgQrx6fFkDMHAEpp5znKX3HKAM8q1xCiRM3TBEB",
+        "privateKey": "2ez4jw8jihbc7rywv48dfueMXSS3NpmHu1HXF1sTdn8p"
+      },
+      "assets": [
+        {
+          "type": "weapon",
+          "value": "E-11 BLASTER RIFLE",
+          "transaction": "eeaf57c9ae81b0366c4ba0ca55a0abeef06cfcfbe26befeb550f8d63c4203ce9"
+        },
+        {
+          "type": "weapon",
+          "value": "E-5 BLASTER RIFLE",
+          "transaction": "ae0ff7bce4c9cb7430a414001c664c1eb55b3507f67869f722a701509aef2442"
+        },
+        {
+          "type": "weapon",
+          "value": "ELECTROSTAFF",
+          "transaction": "7494e69e9205179e36f4b269b5faba16543795aa6714f4543259e68376de42f9"
+        },
+        {
+          "type": "weapon",
+          "value": "EE-3 CARBINE RIFLE",
+          "transaction": "5b021b37b2d53958d7a8bdde2ed145b8561453836d71c0fb97df6b45771ba953"
+        },
+        {
+          "type": "weapon",
+          "value": "THERMAL DETONATOR",
+          "transaction": "6a7a86712b5a73ec43d6988231c8796bf0df12fe07d7efde24b031ccba37da93"
+        },
+        {
+          "type": "weapon",
+          "value": "Z6 ROTARY BLASTER CANNON",
+          "transaction": "21d4e2f8b61ec979265e2088aa15d9366f0d2d260e16fd166fefcb854f618dff"
+        },
+        {
+          "type": "weapon",
+          "value": "DL-44 BLASTER",
+          "transaction": "cbdfd2ae35dd7b712ba2173ea2202e501093442e8e89831c5411d147d2b3c745"
+        },
+        {
+          "type": "weapon",
+          "value": "Z6 RIOT CONTROL BATON",
+          "transaction": "744c75732ad5b0586e39f57dee7af76ee380677e99ee64d27c5865c6e3d975a5"
+        },
+        {
+          "type": "weapon",
+          "value": "35c REPEATING CANNON",
+          "transaction": "362694a819465cedfe2763e6e5fc814e0a7dd528592428011d1d0b1530405b56"
+        },
+        {
+          "type": "weapon",
+          "value": "WOOKIE BOWCASTER",
+          "transaction": "23542617a61aa6f3dd865b2308f69581997ca679a3e34096973bd31b6c250029"
+        },
+        {
+          "type": "weapon",
+          "value": "LIGHTSABER",
+          "transaction": "69f9e904d9c2cbb8d33db3b71c1e19023acc3f3139d7be46a98b644e4161f919"
+        },
+        {
+          "type": "weapon",
+          "value": "EZRA’S LIGHTSABER",
+          "transaction": "a8c73adb556a21cdacf3367bd2848195b2a866bedbcccab401030045c79d742d"
+        },
+        {
+          "type": "credit",
+          "value": "100",
+          "transaction": "8a6c1225414a5f9a8ea3d68beb586db5dd0c97dbf9b1cb75ba727f06af30afe2"
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
